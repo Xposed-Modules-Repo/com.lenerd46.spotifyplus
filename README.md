@@ -25,7 +25,7 @@ For Rooted Phones:
 For Non Rooted Phones:
 1. Install the APK from the releases page
 2. Download a Spotify APK (you can get it [here](https://spotify.en.uptodown.com/android/download))
-3. Setup LSPatch (if using Android 15 or Android 16, using [this fork](https://github.com/JingMatrix/LSPatch))
+3. Setup LSPatch (if using Android 15 or Android 16, using [this fork](https://github.com/JingMatrix/LSPatch). Shizuku not working? Try using [this fork](https://github.com/thedjchi/Shizuku))
 4. Press the plus button -> Select apk from storage -> and find your Spotify APK file
 5. Select Local, then start the patch
 6. Inside of LSPatch, tap on Spotify, select module scope, and select Spotify Plus
@@ -33,10 +33,14 @@ For Non Rooted Phones:
 8. Enjoy the new features!
 
 > [!NOTE]
-> The latest recommended version of Spotify to use is v9.0.90.1229. The module is not guaranteed to work past this version
+> The latest recommended version of Spotify to use is v9.1.28.2252. The module is not guaranteed to work past this version
+
+## Resources and Feedback
+Join the Spotify Plus community! We have a Telegram channel where you can discuss the module and give feedback and discuss directly. You can join [here](https://t.me/spotifypluscool)
 
 ## Main Features
 * Beautiful Lyrics!
+* Last.fm integrated into Spotify. See your scrobbles directly in the context menu of any song
 * There's a couple other smaller things that I don't really feel like writing down
 
 For now, that is all that this module does. I have lots of plans for this mod though. The ultimate dream would be to have something like spicetify, but for mobile. For now though, beautiful lyrics was the most important feature for me
