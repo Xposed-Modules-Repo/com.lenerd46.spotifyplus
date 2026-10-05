@@ -1,6 +1,7 @@
 <div align="center">
-  
+
 # Spotify Plus
+
 Spotify Plus is the ultimate enhancement mod for Spotify
 
 Word by word lyrics, new features, customizations, and much more, all in one module
@@ -10,8 +11,9 @@ Word by word lyrics, new features, customizations, and much more, all in one mod
 <a href="https://t.me/spotifypluscool" target="_blank">
 ![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@spotifypluscool)
 </a>
-![Static Badge](https://img.shields.io/badge/Spotify%20Version-9.1.68.1888-green?logo=spotify)
+![Static Badge](https://img.shields.io/badge/Spotify%20Version-9.1.82.2160-green?logo=spotify)
 ![GitHub Release](https://img.shields.io/github/v/release/LeNerd46/SpotifyPlus?color=lightgreen)
+[![Crowdin](https://badges.crowdin.net/spotify-plus/localized.svg)](https://crowdin.com/project/spotify-plus)
 
 </div>
 
@@ -20,7 +22,7 @@ Word by word lyrics, new features, customizations, and much more, all in one mod
 Spotify Plus is an Xposed module that enhances Spotify with new functionality, many quality of life improvements, and more customization, while preserving the native Spotify feel and experience.
 
 > [!IMPORTANT]
-> The latest recommended version of Spotify to use is v9.1.68.1888. The module is not guaranteed to work past this version
+> The latest recommended version of Spotify to use is v9.1.82.2160. The module is not guaranteed to work past this version
 
 ## Features
 
@@ -104,6 +106,27 @@ Unlike Spotify's normal queue which removes songs after they're done playing, Pl
 
 </details>
 
+<details>
+<summary><b>❤️ Bring Back Like Button</b></summary>
+
+If you miss the like button, you can bring it back! I was never a fan of the add button or whatever it does, so now you
+can bring back the old like button
+
+</details>
+
+<details>
+<summary><b>🖥️ UI Changes</b></summary>
+
+There are a few UI changes you can apply depending on what you want. These are sitll experimental, so they may not
+function perfectly.
+
+- You can change have albums with animated album artwork appear more like Apple Music.
+- There's a redesigned now playing view which simplifies the UI and removes unecessary elements.
+- You can have an animated background instead of just a static color. It uses the current song's artwork for the
+  background.
+
+</details>
+
 ## Installing
 
 Requirements:
@@ -125,7 +148,7 @@ For Rooted Phones:
 For Non Rooted Phones:
 
 1. Install the APK from the releases page
-2. Download a Spotify APK (you can get it [here](https://spotify.en.uptodown.com/android/download))
+2. Download a Spotify APK (you can get it [here](https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/). Make sure to check the latest supported version of Spotify!! It's at the top of the readme)
 3. Setup LSPatch (if using Android 15 or Android 16, using [this fork](https://github.com/JingMatrix/LSPatch). Shizuku not working? Try using [this fork](https://github.com/thedjchi/Shizuku))
 4. Press the plus button -> Select apk from storage -> and find your Spotify APK file
 5. Select Local, start the patch, and install the patched app
